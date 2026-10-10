@@ -1,4 +1,4 @@
 # OpenGL-API
 OpenGL and OpenGL ES API Issue Tracker
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by heisejason Heise
+Owned by Jason Heise heisejason-png Giters 
